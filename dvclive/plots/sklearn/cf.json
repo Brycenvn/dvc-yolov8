@@ -41,7 +41,7 @@
     },
     {
         "actual": "dog",
-        "predicted": "teddy bear"
+        "predicted": "dog"
     },
     {
         "actual": "horse",
@@ -53,11 +53,11 @@
     },
     {
         "actual": "elephant",
-        "predicted": "elephant"
+        "predicted": "background"
     },
     {
         "actual": "elephant",
-        "predicted": "elephant"
+        "predicted": "background"
     },
     {
         "actual": "umbrella",
@@ -69,10 +69,6 @@
     },
     {
         "actual": "background",
-        "predicted": "person"
-    },
-    {
-        "actual": "background",
-        "predicted": "elephant"
+        "predicted": "suitcase"
     }
 ]

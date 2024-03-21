@@ -7,14 +7,14 @@ epochs: 5
 time:
 patience: 100
 batch: 16
-imgsz: 512
+imgsz: 640
 save: true
 save_period: -1
 cache: false
 device:
 workers: 0
 project:
-name: train
+name: train2
 exist_ok: false
 pretrained: true
 optimizer: auto
@@ -104,4 +104,4 @@ crop_fraction: 1.0
 cfg:
 tracker: botsort.yaml
 save_dir: 
-  d:\kieu_ntm\brc_design_docs\mlops\practice_projects\dvc_tutorial\yolo\runs\detect\train
+  d:\kieu_ntm\brc_design_docs\mlops\practice_projects\dvc_tutorial\yolo\runs\detect\train2
